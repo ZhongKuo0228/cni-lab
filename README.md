@@ -35,7 +35,7 @@ https://docs.google.com/presentation/d/12KyduZQJ3sM1Vu3n6hiw0RXc8zF2ESasQkBHgLcG
 2. `同 WorkerNode`與`跨 WorkerNode` 間傳輸效率
 3. CNI 使用運算資源的狀態
 
-[Lab 說明文件](./K8s%20網路模型與%20CNI.pdf)以 Flunnel 爲例，可以自行更換 [MiniKube 的 CNI Plug-in](https://minikube.sigs.k8s.io/docs/commands/start/) 進行比較
+[Lab 說明文件](./cni-lab%20效能%20Lab.md)以 Flunnel 爲例，可以自行更換 [MiniKube 的 CNI Plug-in](https://minikube.sigs.k8s.io/docs/commands/start/) 進行比較
 
 
 ### 使用 Minikube 錄製 CNI 網路封包的方式
