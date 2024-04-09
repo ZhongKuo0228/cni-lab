@@ -4,10 +4,10 @@
 
 實際搭建以下幾種 CNI 並和 AWS CNI 進行原理、優缺點和效能的比較
 
-https://github.com/flannel-io/flannel
-https://github.com/projectcalico/calico
-https://github.com/weaveworks/weave/
-https://github.com/cilium/cilium
+- https://github.com/flannel-io/flannel
+- https://github.com/projectcalico/calico
+- https://github.com/weaveworks/weave/
+- https://github.com/cilium/cilium
 
 
 ## 說明簡報
